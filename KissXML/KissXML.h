@@ -1,6 +1,5 @@
 #import <Foundation/Foundation.h>
 
-#import "DDXMLElementAdditions.h"
 #import "NSString+DDXML.h"
 #import "DDXML.h"
 #import "DDXMLDocument.h"
